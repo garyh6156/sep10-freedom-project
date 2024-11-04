@@ -4,16 +4,16 @@
 ##### 11/4/24
 
 ## Content
-That l find that you just need paper and pen to create a simple animation and you can use an Graphics tablet and Stylus pen to create another different type of animations.
+That you needed Graphics tablet and Stylus pen to create a good and cool animations or you might just need papers and pen or pencil to create an paper animation
 
 
+## Engineering Design Process
 
 
+## Skill
 
 
-
-
-
+## Professionalism
 
 [Previous](entry01.md) | [Next](entry03.md)
 
