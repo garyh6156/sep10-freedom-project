@@ -13,9 +13,12 @@ That l am on the third stage of the enginerring desigh process,where is the part
 ## Skill
 The skill l learned is how to google, and how to pay attention on your work.
 ## How To Google
-One skill that l learn is how to google because when l google up things about animation it was showing too much of things it gonna take you forever to look over all the results, what you need to do is look at the titles of the website because the tities gonna show you what the website is about.You don't want to view websites that display content you don't need, 
+One skill that l learn is how to google because when l google up things about animation it was showing too much of things it gonna take you forever to look over all the results, what you need to do is look at the titles of the website because the tities gonna show you what the website is about.You don't want to view websites that display content you don't need.
+## Pay Attention On Your Work
+Another skill that l learn is how to pay attention on your work because some time l can't really pay attention on my homework, what l did is put on a chill music because it can relieve stress and anxiety it gonna help you think better and work better on your work. And also if you want pay attention on something you need a better sleep.
 
-## Professionalism
+## Summary
+Overall l felt good and excited for my website because my website is gonna to be about animation and l love animation.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
