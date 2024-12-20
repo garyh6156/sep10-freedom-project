@@ -6,6 +6,26 @@ In **Part B** of my freedom project l brainstormed some ideas about my topic(**m
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
