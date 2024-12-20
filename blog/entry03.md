@@ -6,11 +6,19 @@ In **Part B** of my freedom project l brainstormed some ideas about my topic(**m
 
 
 
+## Engineering Desigh Process(EDP)
+
+That on l was on the third and close to the fourth one **(3.7 by the way)** because l feel like l shound think and brainstorm more ideas on animation.
+
+
+## Googling 
+Googling is a great skill because it is helping you get more information on what the topic that you research also it might show you some information that you had never ever seen it before.
 
 
 
 
-
+## Professionalism 
+You can recheck your note that you have been take also you can use Google to help you sometimes and you can ask the people around you, like your teacher, classmate, friends and family.
 
 
 
