@@ -8,6 +8,10 @@ Aframe is a tool that you can use to build and design a VR world, it can create 
 ## Skill
 The first skill l learn was Creativity because if you want to use Aframe you kind needed some creative to create different things in Aframe also to think outside of the box. The second skill l learn was Debugging, it was a powerful skill that can help you find errors and fix it when you tinkering with Aframe.
 
+
+## Professionalism
+You should pay attention on your codes for Aframe when you are using it because you might make a errors and a errors gonna confused you, stay creativity when you use Aframe.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
