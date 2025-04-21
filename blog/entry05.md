@@ -3,7 +3,7 @@
 
 
 ## Content
-The tool that l learn about was Aframe, and it was nice. Aframe was a simple tool that you can use to create animation and other 3D scenes but mostly it helps you build a VR experiences. I learn most my information on [Renne Castro YouTube Video](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce) He teach and show Aframe through lesson,there was lesson 1.1 to lesson 4.5. He teach you and showing you example of Aframe in every video lesson that he did.
+The tool that l learn about was Aframe, and it was nice. Aframe was a simple tool that you can use to create animation and other 3D scenes but mostly it helps you build a VR experiences. I learn most my information on [Renne Castro YouTube Video](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce) He teach and show Aframe through lesson,there was lesson 1.1 to lesson 4.5. He teach you and showing you example of Aframe in every video lesson that he did. Also in this [Aframe Website](https://aframe.io/examples/showcase/webgpu/) it shows a lot of example of Aframe that other's people had make and many code that you can use with Aframe.
 
 
 
