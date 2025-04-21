@@ -10,6 +10,9 @@ The tool that l learn about was Aframe, and it was nice. Aframe was a simple too
 The skill that l use was "How to Learn" and "Time Management". First "How to Learn" l use this skill to learn more about Aframe when l was in home and class. It also shows that you were able to learn on your own when you using "How to Learn". Then the second skill "Time Management" It helps you create a plan, that helps you know what you gonna do that day, so you are not lost everyday.
 
 
+## Professionalism
+Aframe was a good tool to use when you were looking to create a 3D website or VR experiences.
+
 
 
 
