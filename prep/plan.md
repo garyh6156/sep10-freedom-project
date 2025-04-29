@@ -5,7 +5,7 @@
 * [Desktop]()
 
 ## Colors
-* `#ABC123`
+* `#b2e5ed`
 
 ## Fonts
 * [Text](URL)
