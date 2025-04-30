@@ -5,10 +5,11 @@
 * [Desktop](Phone-Wireframe.png)
 
 ## Colors
-* `#ABC123`
+* `#b2e5ed`
 
 ## Fonts
-* [Text](URL)
+* [Shadows Into Light](https://fonts.google.com/specimen/Shadows+Into+Light)
+* [Gloria Hallelujah](https://fonts.google.com/specimen/Gloria+Hallelujah)
 
 ## Timeline
 
