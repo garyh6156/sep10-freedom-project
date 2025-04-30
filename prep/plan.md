@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile](Computer-Wireframe.png)
-* [Desktop](Phone-Wireframe.png)
+* [Mobile](Phone-Wireframe.png)
+* [Desktop](Computer-Wireframe.png)
 
 ## Colors
 * `#b2e5ed`
