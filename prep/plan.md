@@ -8,7 +8,7 @@
 * `#b2e5ed`
 
 ## Fonts
-* [Shadows Into Light](https://fonts.google.com/specimen/Shadows+Into+Light)
+* [Single Day](https://fonts.google.com/specimen/Single+Day)
 * [Gloria Hallelujah](https://fonts.google.com/specimen/Gloria+Hallelujah)
 
 ## Timeline
