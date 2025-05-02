@@ -8,7 +8,7 @@
 * `#b2e5ed`
 
 ## Fonts
-* [Single Day](https://fonts.google.com/specimen/Single+Day))
+* [Single Day](https://fonts.google.com/specimen/Single+Day)
 * [Gloria Hallelujah](https://fonts.google.com/specimen/Gloria+Hallelujah)
 
 ## Timeline
