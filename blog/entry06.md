@@ -7,7 +7,8 @@ Frist l plan out how my MVP should look in mobile and computer with wireframes a
 ## Challenges
 One challenges that l face was that to make the text goes to the right and make it keep less space because when l try to make the text goes to the right it did not, but l decided to google up video to watch and ask my friend, now it on the right and take less  space.
 ### The code:
-'<div id="future" style="float: right; margin-top: 120px; margin-left: 20px; text-align: left;></div>'
+* `<div id="future" style="float: right; margin-top: 120px; margin-left: 20px; text-align: left;></div>`
+* `<div style="max-width: 800px;"></div>`
 
 [Previous](entry05.md) | [Next](entry07.md)
 
