@@ -19,6 +19,14 @@ I think l am in improve because l am trying to improve my MVP webiste to make it
 * The first skill was Problem Decimposition because it can help you to see where is the problem and makes you more easy to fix a problem with step when it get broke into pieces.
 * The second skill was Time Management because in MVP you really needed to use your time so you can use time management to help you that what you gonna do in these day for example, you plan out a schedule to show you what you gonna do in monday to friday.
 
+
+
+## Professionalism
+when you are doing a project you really should use time management so you are not lost like me in somedays.
+
+
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
