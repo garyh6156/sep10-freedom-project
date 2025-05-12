@@ -10,6 +10,15 @@ One challenges that l face was that to make the text goes to the right and make 
 * `<div id="future" style="float: right; margin-top: 120px; margin-left: 20px; text-align: left;></div>`
 * `<div style="max-width: 800px;"></div>`
 
+
+## EDP
+I think l am in improve because l am trying to improve my MVP webiste to make it look better and imrpove the information in the webiste.
+
+
+## Skills
+* The first skill was Problem Decimposition because it can help you to see where is the problem and makes you more easy to fix a problem with step when it get broke into pieces.
+* The second skill was Time Management because in MVP you really needed to use your time so you can use time management to help you that what you gonna do in these day for example, you plan out a schedule to show you what you gonna do in monday to friday.
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
