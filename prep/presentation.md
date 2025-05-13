@@ -4,13 +4,13 @@
 * Did you know there is different kind of animation in the world
 
 ## Product
-*
+* gifs/link to my MVP
 
 ## Process
 * In my part A of research,l researched different kind of animation and tool and had exist in today world. First l start to google website and then l watch a video. In part B of my research, l brainstorm different type of technology in the future, like Automated Tasks and Hybrid Animation. I start to learn my tool and then l test out Aframe to make a 3D animation.
 
 ## Conclusion
-*
+* Use time management when you are doing a project because it really gonna help you save your time and you know what you gonna do in each day. Unlike me sometime l was having a problem on what to do someday
 
 <!-- EXAMPLE
 
