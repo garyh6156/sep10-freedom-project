@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Did you know there is different kind of animation in the world
 
 ## Product
-* 
+*
 
 ## Process
-* 
+* In my part A of research,l researched different kind of animation and tool and had exist in today world. First l start to google website and then l watch a video. In part B of my research, l brainstorm different type of technology in the future, like Automated Tasks and Hybrid Animation. I start to learn my tool and then l test out Aframe to make a 3D animation.
 
 ## Conclusion
-* 
+*
 
 <!-- EXAMPLE
 
